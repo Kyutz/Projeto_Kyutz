@@ -12,6 +12,7 @@ public:
     float getB2();
     void MB1();
     void MB2();
+    void MB3();
 };
 
 int B::getB1()
@@ -41,6 +42,10 @@ void B::MB2()
     cout << "MB2";
 }
 
+void B::MD3()
+{
+    cout << "MB3";
+}
 
 int main()
 {
