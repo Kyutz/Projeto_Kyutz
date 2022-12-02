@@ -45,6 +45,12 @@ void A::MA2()
     cout << "MA2";
 }
 
+void A::MA3()
+{
+    cout << "Alteração a classe A partir do clone";
+}
+
+
 int main()
 {
 
