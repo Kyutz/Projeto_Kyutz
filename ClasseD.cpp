@@ -15,6 +15,7 @@ public:
     float getD2();
     void MD1();
     void MD2();
+    void MD4();
 };
 
 int D::getD1()
@@ -44,7 +45,10 @@ void D::MD2()
     cout << "MD2";
 }
 
-
+void D::MD4()
+{
+    cout << "MD4"; 
+}  
 
 int main()
 {
