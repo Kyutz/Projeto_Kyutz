@@ -52,7 +52,8 @@ void A::MA3()
 
 
 int main()
-{   
-   
+{
+
     return 0;
-}
+} 
+
